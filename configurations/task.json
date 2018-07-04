@@ -107,6 +107,33 @@
          "table_id" : "20011215",
          "url" : "/modules/task/IncluExclu.form.html"
       },
+<<<<<<< HEAD
+=======
+      "NMA_VisitDate":{
+         "table_id":"",
+         "url" :"/modules/task/Visit_date.html"
+       },
+       "NMA_PSQI" : {
+          "table_id" : "20011219",
+          "url" : "/modules/task/File_upload.html"
+       },
+       "NMA_GDS" : {
+          "table_id" : "",
+          "url" : "/modules/task/File_upload.html"
+       },
+       "NMA_MMSE" : {
+          "table_id" : "20011223",
+          "url" : "/modules/task/File_upload.html"
+       },
+       "NMA_WTAR" : {
+          "table_id" : "",
+          "url" : "/modules/task/File_upload.html"
+       },
+       "NMA_HADS" : {
+          "table_id" : "20011221",
+          "url" : "/modules/task/File_upload.html"
+      },
+>>>>>>> master
       "BL_Visit_date" : {
          "table_id" : "20011239",
          "url" : "/modules/task/Visit_date.html"
@@ -135,6 +162,7 @@
          "table_id" : "20011218",
          "url" : "/modules/task/Insomnia_Severity_Index.form.html"
       },
+<<<<<<< HEAD
       "BL_PSQI" : {
          "table_id" : "20011219",
          "url" : "/modules/task/Pittsburgh_Sleep_Quality_Index.html",
@@ -145,6 +173,8 @@
          "table_id" : "20011219",
          "url" : "/modules/task/Pittsburgh_Sleep_Quality_Index.form.html"
       },
+=======
+>>>>>>> master
       "BL_DASS" : {
          "table_id" : "20011220",
          "url" : "/modules/task/dass.html",
@@ -155,6 +185,7 @@
          "table_id" : "20011220",
          "url" : "/modules/task/dass.form.html"
       },
+<<<<<<< HEAD
       "BL_HADS" : {
          "table_id" : "20011221",
          "url" : "/modules/task/hads.html",
@@ -165,6 +196,8 @@
          "table_id" : "20011221",
          "url" : "/modules/task/hads.form.html"
       },
+=======
+>>>>>>> master
       "BL_homecq" : {
          "table_id" : "20011222",
          "url" : "/modules/task/homecq.html",
@@ -175,10 +208,13 @@
          "table_id" : "20011222",
          "url" : "/modules/task/homecq.form.html"
       },
+<<<<<<< HEAD
       "BL_MMSE" : {
          "table_id" : "20011223",
          "url" : "/modules/task/MMSE.html"
       },
+=======
+>>>>>>> master
       "BL_PVT" : {
          "table_id" : "20011224",
          "url" : "/modules/task/PVT.html"
@@ -197,17 +233,53 @@
          "table_id" : "20011263",
          "url" : "/modules/task/Set1_Evening_Wordpairs_Practice.html"
       },
+<<<<<<< HEAD
       "Evening_Memtest_Set1" : {
          "table_id" : "20011253",
          "url" : "/modules/task/Set1_Evening_Wordpairs.html"
+=======
+      "Evening_Memtest_Set1_T1" : {
+         "table_id" : "20011253",
+         "url" : "/modules/task/Set1_Evening_Wordpairs_T1.html"
+      },
+      "Evening_Memtest_Set1_T2" : {
+         "table_id" : "20011253",
+         "url" : "/modules/task/Set1_Evening_Wordpairs_T2.html"
+      },
+      "Evening_Memtest_Set1_T3" : {
+         "table_id" : "20011253",
+         "url" : "/modules/task/Set1_Evening_Wordpairs_T3.html"
+      },
+      "Evening_Memtest_Set1_T4" : {
+         "table_id" : "20011253",
+         "url" : "/modules/task/Set1_Evening_Wordpairs_T4.html"
+>>>>>>> master
       },
       "BL_Set2_Memtest_practice" : {
          "table_id" : "20011130",
          "url" : "/modules/task/Set2_Evening_Wordpairs_Practice.html"
       },
+<<<<<<< HEAD
       "Evening_Memtest_Set2" : {
          "table_id" : "20011257",
          "url" : "/modules/task/Set2_evening_wordpairs.html"
+=======
+      "Evening_Memtest_Set2_T1" : {
+         "table_id" : "20011257",
+         "url" : "/modules/task/Set2_evening_wordpairs_T1.html"
+      },
+      "Evening_Memtest_Set2_T2" : {
+         "table_id" : "20011257",
+         "url" : "/modules/task/Set2_evening_wordpairs_T2.html"
+      },
+      "Evening_Memtest_Set2_T3" : {
+         "table_id" : "20011257",
+         "url" : "/modules/task/Set2_evening_wordpairs_T3.html"
+      },
+      "Evening_Memtest_Set2_T4" : {
+         "table_id" : "20011257",
+         "url" : "/modules/task/Set2_evening_wordpairs_T4.html"
+>>>>>>> master
       },
       "BL_Fingertapping_evening" : {
          "table_id" : "20011234",
