@@ -108,7 +108,7 @@
          "url" : "/modules/task/IncluExclu.form.html"
       },
       "NMA_VisitDate":{
-         "table_id":"",
+         "table_id":"91000114",
          "url" :"/modules/task/Visit_date.html"
        },
        "NMA_PSQI" : {
@@ -116,7 +116,7 @@
           "url" : "/modules/task/File_upload.html"
        },
        "NMA_GDS" : {
-          "table_id" : "",
+          "table_id" : "91000115",
           "url" : "/modules/task/File_upload.html"
        },
        "NMA_MMSE" : {
@@ -124,7 +124,7 @@
           "url" : "/modules/task/File_upload.html"
        },
        "NMA_WTAR" : {
-          "table_id" : "",
+          "table_id" : "91000113",
           "url" : "/modules/task/File_upload.html"
        },
        "NMA_HADS" : {
@@ -295,6 +295,34 @@
          "table_id" : "20011262",
          "url" : "/modules/task/Set2_morning_wordpairs.html"
       },
+      "BL_Sourcedocs" : {
+         "table_id" : "91000112",
+         "url" : "/modules/task/File_upload.html"
+      },
+      "BL_Memory_Paperwork" : {
+         "table_id" : "91000111",
+         "url" : "/modules/task/mem_File_upload.html"
+      },
+      "BL_EDF_upload" : {
+         "table_id" : "91000110",
+         "url" : "/modules/task/File_upload.html"
+      },
+      "BL_PSG2018" : {
+         "table_id" : "91000109",
+         "url" : "/modules/task/PSG2018.html"
+      },
+      "BL_SleepScoring" : {
+         "table_id" : "91000108",
+         "url" : "/modules/task/File_upload.html"
+      },
+      "BL_SleepDiary" : {
+         "table_id" : "91000107",
+         "url" : "/modules/task/SleepDiary.html"
+      },
+      "BL_Spatialnav" : {
+         "table_id" : "91000106",
+         "url" : "/modules/task/Spatialnav_upload.html"
+      },
       "FUP_Anthro" : {
          "table_id" : "20011240",
          "url" : "/modules/task/Anthro.html"
@@ -381,10 +409,43 @@
          "table_id" : "20011130",
          "url" : "/modules/task/Set1_Evening_Wordpairs_Practice.html"
       },
+      "FUP_Evening_Memtest_Set1_T1" : {
+         "table_id" : "20011226",
+         "url" : "/modules/task/Set1_Evening_Wordpairs_T1.html"
+      },
+      "FUP_Evening_Memtest_Set1_T2" : {
+         "table_id" : "20011227",
+         "url" : "/modules/task/Set1_Evening_Wordpairs_T2.html"
+      },
+      "FUP_Evening_Memtest_Set1_T3" : {
+         "table_id" : "20011228",
+         "url" : "/modules/task/Set1_Evening_Wordpairs_T3.html"
+      },
+      "FUP_Evening_Memtest_Set1_T4" : {
+         "table_id" : "20011229",
+         "url" : "/modules/task/Set1_Evening_Wordpairs_T4.html"
+      },
       "FUP_Set2_Memtest_practice" : {
          "table_id" : "20011264",
          "url" : "/modules/task/Set2_Evening_Wordpairs_Practice.html"
       },
+      "FUP_Evening_Memtest_Set2_T1" : {
+         "table_id" : "20011130",
+         "url" : "/modules/task/Set2_evening_wordpairs_T1.html"
+      },
+      "FUP_Evening_Memtest_Set2_T2" : {
+         "table_id" : "20011131",
+         "url" : "/modules/task/Set2_evening_wordpairs_T2.html"
+      },
+      "FUP_Evening_Memtest_Set2_T3" : {
+         "table_id" : "20011132",
+         "url" : "/modules/task/Set2_evening_wordpairs_T3.html"
+      },
+      "FUP_Evening_Memtest_Set2_T4" : {
+         "table_id" : "20011133",
+         "url" : "/modules/task/Set2_evening_wordpairs_T4.html"
+      },
+
       "FU_Fingertapping_evening" : {
          "table_id" : "20011258",
          "url" : "/modules/task/finger_tapping_12.html",
@@ -415,6 +476,35 @@
          "table_id" : "20011260",
          "url" : "/modules/task/finger_tapping_6.form.html"
       },
+      "FUP_Sourcedocs" : {
+         "table_id" : "91000105",
+         "url" : "/modules/task/File_upload.html"
+      },
+      "FUP_Memory_Paperwork" : {
+         "table_id" : "91000104",
+         "url" : "/modules/task/mem_File_upload.html"
+      },
+      "FUP_EDF_upload" : {
+         "table_id" : "91000103",
+         "url" : "/modules/task/File_upload.html"
+      },
+      "FUP_PSG2018" : {
+         "table_id" : "91000102",
+         "url" : "/modules/task/PSG2018.html"
+      },
+      "FUP_SleepScoring" : {
+         "table_id" : "91000101",
+         "url" : "/modules/task/File_upload.html"
+      },
+      "FUP_SleepDiary" : {
+         "table_id" : "91000100",
+         "url" : "/modules/task/SleepDiary.html"
+      },
+      "FUP_Spatialnav" : {
+         "table_id" : "91000099",
+         "url" : "/modules/task/Spatialnav_upload.html"
+      },
+
       "quest_list" : {
          "list" : {
             "General information" : [ "Ethnicity", "Lifestyle", "Education", "Medical_history" ],
@@ -423,7 +513,6 @@
             "Baseline Evening" : [
                "BL_ESS",
                "BL_ISI",
-               "BL_PSQI",
                "BL_DASS",
                "BL_HADS",
                "BL_homecq",
@@ -434,7 +523,7 @@
             "Follow up Evening" : [
                "FUP_ESS",
                "FUP_ISI",
-               "FUP_PSQI",
+
                "FUP_DASS",
                "FUP_HADS",
                "FUP_homecq",
